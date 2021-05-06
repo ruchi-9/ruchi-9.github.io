@@ -7,7 +7,7 @@
   "order": "desc",
   "limit": "20",
   "includeFork": true,
-  "theme": "dark.css",
+  "theme": "dracula.css",
   "types": [
    "all"
   ],
